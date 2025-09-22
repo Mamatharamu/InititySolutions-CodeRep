@@ -1,0 +1,21 @@
+<svg width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 150">
+  <!-- Background -->
+  <rect width="250" height="50" fill="#394257" />
+
+  <!-- ET Icon Image (embedded) -->
+  <image x="30" y="15" width="120" height="120" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAA7CAYAAADIO4L0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAQASURBVGhD7Zo9axVBFIbzE/wFWlrFXtHaIiIIgh9dwMJYqKWatOJHZRWUgBairQYEG8VCUAiCoIJY5H4IKSwEEQurjHmu9+hkPTtzZnd273LNC29hiLPnmXPmzOxsZobDocP/g4R1ZjAYONyEhhtf3JPnr9215Yfu9Pmrbm7+ysi7Zo/+sfxsYfHW6Pderr13377/GI+QV8I6gu73++Mf1xcBL99fdQePX9gGl2omgnGYuFyCMys0wZEtDaCuGZcKqKts0GS2KdiiWSJ1Mp8FmvLbvf+kGmCTZu1XUS1ossusawG1ZXpGatYrQ7/72HOzh8+ogbRtqox4rKoEzQNSy3nPgVPu3NLf7QiTIcaSf2OWCr+3L3FCiefB42fjCMNKhk4BFlD26M3NzWQzKZdvrIzG0cbXbAFPgrYCEyQZZc1rMFUMjBWeignJDA2A5aBxZOswQYa0wOuaGKgc7bm+Y2vcDG3p0mRXCza3LVmnyTJJmkzQNBdtYN8EogXYlMlkDPzS9ZUxwXZFoSnV2DpuG1hsAdfWdxQ6drScFLAYKC0uMWVeVBCaLGsDiWkqWiBtm16ixScmMb6C0KEsU1Y5t6S6PhTYWYrZLoWOZXnSZV10rMw5IIlKoUMdmyOi9uBJmzOCFi+makWl0KGDCBOiPXTSpptr8YpFKnSstLu0losOrW3ZvlTo0PpgUO1hXXGok1OhSIUO/ce2jppVHSpxWdcqdGirundzyX24s9Bpa3FjblaRCl28k/a9OLfXbZyd6bS1uPEO9A70lqYVGqMd6GmH5l4AJUMfOzHv3qzeDfrr26fu56cXqtduX1QDFXMwKrvmySUVOrRPcyavIyZFgxW3IRU69lJeR52F5l1ZgxX776ap6ix07C3LfzdNVWehUejjHF2warPpNDR3xhqwuHjZZlVT0FQnvajM8i6NSqFjJV41201Bh3YcbLojQ6H9Gpd9QQipCejYNZH5NhTFbhixXzYWNQEd+7CYdO+NYh/uYl8Ii8oNHes9yV84EGs79i2Lmbau75zQsfME1hpuFBrR/bQBfTOjlozngrYA05M0maCR5fs0FRHbynJAW4CJhSrVZIamfC1/iYCpjDLVgSaG2NYkDh2VzdCI8o2tbzHlrmW9KjRjhU6JvmPH5CRolAKOi90zBZry5ILeCovL1rGvZGhEMNZSx75SoLWxQqbvWHaRStAoZY37ago65c2vMjSyNhZfuaEtO0ZRtaBFdMrQOveVE5r1W7YthZQFGoWy7isHdNnOYFU2aBEzX4T3VQe6LqwoO7SIzLPdFLeQVGhAealIeamJqTHoMn1+9UiFFfuybD9V1Dp0F/QPdK/Xc+vr61Nr+FToafdv6IH7BTrLxMXAFLARAAAAAElFTkSuQmCC"
+          />
+
+  <!-- Company Name -->
+  <text x="170" y="50" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="white">
+    Transputer
+  </text>
+   <text x="170" y="90" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="white">
+    Electronics
+  </text>
+
+  <!-- Tagline -->
+  <text x="170" y="130" font-family="Arial, sans-serif" font-size="16" fill="white">
+    Your Components Requirements, Our Solutions
+  </text>
+</svg>
